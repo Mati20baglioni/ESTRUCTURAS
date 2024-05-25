@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1713374301 source:c:\users\cami\desktop\estructuras\pila.c
+	"pila.h"
+
+1713374301 c:\users\cami\desktop\estructuras\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1716664911 source:c:\users\cami\desktop\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
